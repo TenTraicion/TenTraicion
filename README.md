@@ -2,7 +2,7 @@
 
 [![Ask Ten](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)][mail] [![Twitter Follow](https://badgen.net/twitter/follow/tentraicion)][Twit] [![Ten's DC](https://badgen.net/discord/online-members/fxhmHJXvzM)][dc]
 
-It's Tentraicion. A humble programmer focussed on creatures related to web.
+It's Tentraicion, A Programmer from Abyss. A humble programmer focussed on creatures related to web.
 
 [![Ten's Trophy](https://github-profile-trophy.vercel.app/?username=tentraicion&no-frame=true&theme=nord&row=1)][T]
 [![Ten's Github Stats](https://github-readme-stats.vercel.app/api?username=tentraicion&show_icons=true&theme=moltack&count_private=true)][T]
