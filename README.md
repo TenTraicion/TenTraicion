@@ -1,6 +1,6 @@
 # Hello folks
 
-[![Ask Ten](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)][mail] [![Twitter Follow](https://badgen.net/twitter/follow/tentraicion)][Twit] [![Ten's DC](https://badgen.net/discord/online-members/fxhmHJXvzM)][dc]
+[![Ask Ten](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)][mail] [![Twitter Follow](https://badgen.net/twitter/follow/tentraicion)][Twit] [![Ten's DC](https://badgen.net/discord/online-members/BCf59exHJV)][dc]
 
 It's Tentraicion, A Programmer from Abyss. A humble programmer focussed on creatures related to web.
 
@@ -11,5 +11,5 @@ It's Tentraicion, A Programmer from Abyss. A humble programmer focussed on creat
 
 [mail]: mailto:tentraicion@gmail.com "Send mail to Ten"
 [Twit]: https://twitter.com/TenTraicion "Ten's Twitter"
-[dc]: https://discord.com/invite/fxhmHJXvzM "Ten's Discord Server"
+[dc]: https://discord.com/invite/BCf59exHJV "Solvinux Solution Inc."
 [T]: https://tentraicion.github.io "TenTraicion"
