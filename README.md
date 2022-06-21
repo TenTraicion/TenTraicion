@@ -33,7 +33,7 @@
 
 ### Connect with me:
 
-[![Codepen Profile|40x40](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg)][cp]
+[![Codepen Profile](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg|width=40px)][cp]
 [![Dev.to Profile](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg )][dt]
 [![Twitter Profile](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg )][twit]
 [![Linked In Profile](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg )][li]
