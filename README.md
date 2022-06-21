@@ -6,28 +6,19 @@
 [![Ask Ten](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)][mail]
 [![Twitter Follow](https://img.shields.io/twitter/follow/TenTraicion?logo=twitter&style=social)][twit]
 [![Ten's DC](https://badgen.net/discord/online-members/BCf59exHJV)][dc]
-[![GitHub followers](https://img.shields.io/github/followers/TenTraicion?label=Follow&style=social)][t]
+[![GitHub followers](https://img.shields.io/github/followers/TenTraicion?label=%20Followers&style=social)][t]
 
 - 🔭 I’m currently working on [Hibi-Ciento](https://github.com/TenTraicion/hibi-ciento)
 
 - 🌱 I’m currently learning **Full-Stack Web Developement**
 
 - 🤝 I’m working with [Solvinux Solution Inc.][s] & [Platinamo][p]
-<!-- - 👯 I’m looking to collaborate on [Solvinux Website](https://github.com/Solvinux/io)
 
-- 👨‍💻 All of my projects are available at [https://tentraicion.github.io](https://tentraicion.github.io)
-
-- 📝 I regularly write articles on [https://discord.gg/BCf59exHJV](https://discord.gg/BCf59exHJV)
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **tentraicion@gmail.com**
-
-- 📄 Know about my experiences [https://tentraicion.github.io/resume.pdf](https://tentraicion.github.io/resume.pdf) -->
-
-- ⚡ Fun fact **not friends, not enemies, just strangers with memories..!**
+- ⚡ Life Motto:  **Not Friends, Not Enemies, Just Strangers with Memories..!**
 
 I love connecting with different people so **if you want to say hi, I'll be happy to meet you more!**
+
+***I am a simple human being trying to lead a simple life. Nothing more and nothing less!!!***
 
 [![Ten's Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=tentraicion&layout=compact&theme=ayu-mirage)][t]
 
@@ -38,6 +29,7 @@ I love connecting with different people so **if you want to say hi, I'll be happ
 [![Facebook Profile](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C)][fb]
 [![Instagram Profile](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C)][fin]
 [![CodePen Profile](https://img.shields.io/badge/CodePen-%230077B5.svg?&style=flat-square&logo=codepen&logoColor=white&color=071A2C)][cp]
+[![Whats App](https://img.shields.io/badge/WhatsApp-%230077B5.svg?&style=flat-square&logo=whatsapp&logoColor=white&color=071A2C)][w]
 
 [![Ten's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tentraicion&theme=garden&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)][t]
 
@@ -96,3 +88,4 @@ I love connecting with different people so **if you want to say hi, I'll be happ
 [kf]: https://ko-fi.com/tentraicion
 [p]: https://github.com/Platinamo "Platinamo"
 [s]: https://github.com/Solvinux "Solvinux Solution Inc"
+[w]: https://wa.me/message/25KLOLUBX7WQF1
