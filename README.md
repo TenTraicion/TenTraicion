@@ -4,7 +4,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tentraicion&label=Profile%20views&color=0e75b6&style=flat)][t]
 [![Ask Ten](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)][mail]
-[![Twitter Follow](https://badgen.net/twitter/follow/tentraicion)][twit]
+[![Twitter Follow](https://img.shields.io/twitter/follow/TenTraicion?logo=twitter&style=social)][twit]
 [![Ten's DC](https://badgen.net/discord/online-members/BCf59exHJV)][dc]
 [![GitHub followers](https://img.shields.io/github/followers/TenTraicion?label=Follow&style=social)][t]
 
