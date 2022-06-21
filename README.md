@@ -55,6 +55,8 @@
 [![TopCoder Profile](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg)][tc]
 [![Discord Server](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)][dc] -->
 
+![Coder](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
+
 [mail]: mailto:tentraicion@gmail.com "Send mail to TenTraicion"
 [twit]: https://twitter.com/TenTraicion
 [dc]: https://discord.com/invite/BCf59exHJV
