@@ -6,6 +6,7 @@
 [![Ask Ten](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)][mail]
 [![Twitter Follow](https://badgen.net/twitter/follow/tentraicion)][twit]
 [![Ten's DC](https://badgen.net/discord/online-members/BCf59exHJV)][dc]
+[![GitHub followers](https://img.shields.io/github/followers/TenTraicion?label=Follow&style=social)][t]
 
 - 🔭 I’m currently working on [Hibi-Ciento](https://github.com/TenTraicion/hibi-ciento)
 
@@ -26,6 +27,8 @@
 
 - ⚡ Fun fact **not friends, not enemies, just strangers with memories..!**
 
+I love connecting with different people so **if you want to say hi, I'll be happy to meet you more!**
+
 [![Ten's Trophy](https://github-profile-trophy.vercel.app/?username=tentraicion&no-frame=true&theme=nord&row=1)][t]
 [![Ten's Github Stats](https://github-readme-stats.vercel.app/api?username=tentraicion&show_icons=true&theme=moltack&count_private=true)][t]
 [![Ten's Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=tentraicion&layout=compact&theme=ayu-mirage)][t]
@@ -33,12 +36,12 @@
 
 ### Connect with me
 
-[![Twitter Profile](assets/social/twitter.png)][twit]
-[![Facebook Profile](assets/social/facebook.png)][fb]
-[![Instagram Profile](assets/social/instagram.png)][fin]
+[![Twitter Profile](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C)][twit]
+[![Linked In Profile](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C)][li]
+[![Facebook Profile](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C)][fb]
+[![Instagram Profile](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C)][fin]
 <!-- [![Codepen Profile](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg)][cp]
 [![Dev.to Profile](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg)][dt]
-[![Linked In Profile](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)][li]
 [![stack Overflow Profile](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg)][so]
 [![Code Sandbox Profile](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg)][csb]
 [![Kaggle Profile](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)][kgl]
