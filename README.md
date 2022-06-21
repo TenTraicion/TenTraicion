@@ -37,12 +37,12 @@ I love connecting with different people so **if you want to say hi, I'll be happ
 [![Instagram Profile](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C)][fin]
 [![CodePen Profile](https://img.shields.io/badge/CodePen-%230077B5.svg?&style=flat-square&logo=codepen&logoColor=white&color=071A2C)][cp]
 
-![Coder](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
-
-[![Ten's Trophy](https://github-profile-trophy.vercel.app/?username=tentraicion&no-frame=true&theme=nord&row=1)][t]
-[![Ten's Github Stats](https://github-readme-stats.vercel.app/api?username=tentraicion&show_icons=true&theme=moltack&count_private=true)][t]
 [![Ten's Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=tentraicion&layout=compact&theme=ayu-mirage)][t]
+[![Ten's Trophy](https://github-profile-trophy.vercel.app/?username=tentraicion&no-frame=true&theme=nord&row=1)][t]
 [![Ten's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tentraicion&theme=garden&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)][t]
+[![Ten's Github Stats](https://github-readme-stats.vercel.app/api?username=tentraicion&show_icons=true&theme=moltack&count_private=true)][t]
+
+![Coder](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
 ### Support Me
 
