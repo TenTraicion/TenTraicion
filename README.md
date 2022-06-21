@@ -1,20 +1,20 @@
 # Hello folks
 
-[![Ask Ten](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)][mail] [![Twitter Follow](https://badgen.net/twitter/follow/tentraicion)][Twit] [![Ten's DC](https://badgen.net/discord/online-members/BCf59exHJV)][dc]
+[![Ask Ten](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)][mail] [![Twitter Follow](https://badgen.net/twitter/follow/tentraicion)][twit] [![Ten's DC](https://badgen.net/discord/online-members/BCf59exHJV)][dc]
 
 It's Tentraicion, A Programmer from Abyss. A humble programmer focussed on creatures related to web.
 
-[![Ten's Trophy](https://github-profile-trophy.vercel.app/?username=tentraicion&no-frame=true&theme=nord&row=2)][T]
-[![Ten's Github Stats](https://github-readme-stats.vercel.app/api?username=tentraicion&show_icons=true&theme=moltack&count_private=true)][T]
-[![Ten's Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=tentraicion&layout=compact&theme=ayu-mirage)][T]
-[![Ten's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tentraicion&theme=garden&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)][T]
+[![Ten's Trophy](https://github-profile-trophy.vercel.app/?username=tentraicion&no-frame=true&theme=nord&row=2)][t]
+[![Ten's Github Stats](https://github-readme-stats.vercel.app/api?username=tentraicion&show_icons=true&theme=moltack&count_private=true)][t]
+[![Ten's Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=tentraicion&layout=compact&theme=ayu-mirage)][t]
+[![Ten's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tentraicion&theme=garden&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)][t]
 
 [mail]: mailto:tentraicion@gmail.com "Send mail to Ten"
-[Twit]: https://twitter.com/TenTraicion "Ten's Twitter"
+[twit]: https://twitter.com/TenTraicion "Ten's Twitter"
 [dc]: https://discord.com/invite/BCf59exHJV "Solvinux Solution Inc."
-[T]: https://tentraicion.github.io "TenTraicion"
+[t]: https://tentraicion.github.io "TenTraicion"
 
-<!-- <h1 align="center">Ola 👋, I'm TenTraicion</h1>
+<h1 align="center">Ola 👋, I'm TenTraicion</h1>
 <h3 align="center">A Programmer from Abyss</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tentraicion&label=Profile%20views&color=0e75b6&style=flat" alt="tentraicion" /> </p>
@@ -44,16 +44,21 @@ It's Tentraicion, A Programmer from Abyss. A humble programmer focussed on creat
 - ⚡ Fun fact **not friends, not enemies, just strangers with memories..!**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START --
-<!-- BLOG-POST-LIST:END --
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/tentraicion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tentraicion" height="30" width="40" /></a>
 <a href="https://dev.to/tentraicion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tentraicion" height="30" width="40" /></a>
 <a href="https://twitter.com/tentraicion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tentraicion" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tentraicion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tentraicion" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19059119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19059119" height="30" width="40" /></a>
 <a href="https://codesandbox.com/tentraicion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tentraicion" height="30" width="40" /></a>
+<a href="https://kaggle.com/tentraicion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tentraicion" height="30" width="40" /></a>
+<a href="https://fb.com/tentraicion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tentraicion" height="30" width="40" /></a>
+<a href="https://instagram.com/tentraicion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tentraicion" height="30" width="40" /></a>
 <a href="https://dribbble.com/tentraicion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tentraicion" height="30" width="40" /></a>
 <a href="https://www.behance.net/tentraicion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tentraicion" height="30" width="40" /></a>
 <a href="https://hashnode.com/@tentraicion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@tentraicion" height="30" width="40" /></a>
@@ -66,6 +71,7 @@ It's Tentraicion, A Programmer from Abyss. A humble programmer focussed on creat
 <a href="https://auth.geeksforgeeks.org/user/tentraicion/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tentraicion/profile" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/tentraicion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="tentraicion" height="30" width="40" /></a>
 <a href="https://discord.gg/BCf59exHJV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BCf59exHJV" height="30" width="40" /></a>
+<a href="/http://fetchrss.com/rss/62b1bdfc3fbbea40e2640be362b1bdcdfe93ee355763e2f2.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://fetchrss.com/rss/62b1bdfc3fbbea40e2640be362b1bdcdfe93ee355763e2f2.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -78,4 +84,4 @@ It's Tentraicion, A Programmer from Abyss. A humble programmer focussed on creat
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tentraicion&show_icons=true&locale=en" alt="tentraicion" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tentraicion&" alt="tentraicion" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tentraicion&" alt="tentraicion" /></p>
