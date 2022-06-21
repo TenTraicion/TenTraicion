@@ -11,9 +11,9 @@
 - 🔭 I’m currently working on [Hibi-Ciento](https://github.com/TenTraicion/hibi-ciento)
 
 - 🌱 I’m currently learning **Full-Stack Web Developement**
-<!-- - 👯 I’m looking to collaborate on [Solvinux Website](https://github.com/Solvinux/io)
 
-- 🤝 I’m looking for help with [Platinamo Website](https://github.com/Platinamo/io)
+- 🤝 I’m working with [Solvinux Solution Inc.][s] & [Platinamo][p]
+<!-- - 👯 I’m looking to collaborate on [Solvinux Website](https://github.com/Solvinux/io)
 
 - 👨‍💻 All of my projects are available at [https://tentraicion.github.io](https://tentraicion.github.io)
 
@@ -94,3 +94,5 @@ I love connecting with different people so **if you want to say hi, I'll be happ
 [tc]: https://www.topcoder.com/members/tentraicion
 [bmc]: https://www.buymeacoffee.com/tentraicion
 [kf]: https://ko-fi.com/tentraicion
+[p]: https://github.com/Platinamo "Platinamo"
+[s]: https://github.com/Solvinux "Solvinux Solution Inc"
