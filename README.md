@@ -11,7 +11,7 @@
 
 ![Coder](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
-![Metrics](https://metrics.lecoq.io/TenTraicion?template=classic&introduction=1&repositories=1&lines=1&achievements=1&activity=1&notable=1&languages=1&isocalendar=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&repositories.featured=TenTraicion%2Fhibi-ciento&introduction.title=true&config.timezone=Asia%2FDhaka)
+![Metrics](/github-metrics.svg)
 
 ## Something about Ten
 
