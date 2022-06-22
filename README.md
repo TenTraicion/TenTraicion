@@ -1,13 +1,19 @@
-# Ola 👋, I'm TenTraicion
+# Ola 👋, It's TenTraicion
 
 ## A Programmer from Abyss
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tentraicion&label=Profile%20views&color=0e75b6&style=flat)][t]
-[![Twitter Follow](https://img.shields.io/twitter/follow/TenTraicion?logo=twitter&style=social)][twit]
+[![Twitter Follow](https://img.shields.io/twitter/follow/TenTraicion?logo=twitter&style=social&label=%20Followers)][twit]
 [![GitHub followers](https://img.shields.io/github/followers/TenTraicion?label=%20Followers&style=social)][t]
 [![Ten's DC](https://badgen.net/discord/online-members/BCf59exHJV)][dc]
 
 [![Ask Ten](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)][mail]
+
+![Coder](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+
+![Metrics](https://metrics.lecoq.io/TenTraicion?template=classic&introduction=1&repositories=1&lines=1&achievements=1&activity=1&notable=1&languages=1&isocalendar=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&repositories.featured=TenTraicion%2Fhibi-ciento&introduction.title=true&config.timezone=Asia%2FDhaka)
+
+## Something about Ten
 
 - 🔭 I’m currently working on [Hibi-Ciento](https://github.com/TenTraicion/hibi-ciento)
 
@@ -19,17 +25,11 @@
 
 - 🤔 Fun Fact: **There are two ways to write error-free programs; only the third one works!**
 
-```bash
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! I am a simple human being trying to lead a simple life. Nothing more and nothing less. I am a music lover and also love natural stormy weather. Think about having a sip of coffee in a rainy day sitting on a chair laying the legas on the grill of the balcony viwewing the sea beach in storm with the coldest music as your partner. I thrive for having these moments.
 
-```
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f0k6l3nba1l5g2bo3p30rkjgn&cover_image=true&theme=default&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=f0k6l3nba1l5g2bo3p30rkjgn&redirect=true)
 
-I love connecting with different people so **if you want to say hi, I'll be happy to meet you more!**
-
-***I am a simple human being trying to lead a simple life. Nothing more and nothing less!!!***
-
-[![Ten's Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=tentraicion&layout=compact&theme=ayu-mirage)][t]
-
-### Connect with me
+***Connect with me***
 
 [![Twitter Profile](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C)][twit]
 [![Linked In Profile](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C)][li]
@@ -38,24 +38,28 @@ I love connecting with different people so **if you want to say hi, I'll be happ
 [![CodePen Profile](https://img.shields.io/badge/CodePen-%230077B5.svg?&style=flat-square&logo=codepen&logoColor=white&color=071A2C)][cp]
 [![Whats App](https://img.shields.io/badge/WhatsApp-%230077B5.svg?&style=flat-square&logo=whatsapp&logoColor=white&color=071A2C)][w]
 
-![Metrics](https://metrics.lecoq.io/TenTraicion?template=classic&introduction=1&repositories=1&lines=1&achievements=1&activity=1&notable=1&languages=1&isocalendar=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&repositories.featured=TenTraicion%2Fhibi-ciento&introduction.title=true&config.timezone=Asia%2FDhaka)
+***Support Me***
 
-[![Ten's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tentraicion&theme=garden&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)][t]
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-yellow?style=social&logo=buymeacoffee)][bmc]
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-yellow?style=social&logo=kofi)][kf]
 
-[![Ten's Github Stats](https://github-readme-stats.vercel.app/api?username=tentraicion&show_icons=true&theme=moltack&count_private=true)][t]
+```javascript
+    const quote = {
+        chris-pine: "Programming isn't about what you know; it's about what you can figure out."
+        dennis-ritchie: "The only way to learn a new programming language is by writing programs in it."
+        burt-rutan: "Testing leads to failure, and failure leads to understanding."
+        thomas-fuchs: "The best error message is the one that never shows up."
+        jason: "Don't write better error messages, write code that doesn't need them."
+    };
+```
 
-![Coder](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+[![Ten's Github Stats](https://github-readme-stats.vercel.app/api?username=tentraicion&show_icons=true&theme=moltack&count_private=true)][t] [![Ten's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tentraicion&theme=garden&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)][t]
 
 [![Ten's Trophy](https://github-profile-trophy.vercel.app/?username=tentraicion&no-frame=true&theme=nord&row=1)][t]
 
 [![GiutHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=tentraicion&theme=react-dark&bg_color=20232a&hide_border=true)][t]
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f0k6l3nba1l5g2bo3p30rkjgn&cover_image=true&theme=default&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=f0k6l3nba1l5g2bo3p30rkjgn&redirect=true)
-
-### Support Me
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-yellow?style=social&logo=buymeacoffee)][bmc]
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-yellow?style=social&logo=kofi)][kf]
+<!-- [![Ten's Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=tentraicion&layout=compact&theme=ayu-mirage)][t] -->
 
 <!-- [![Code Sandbox Profile](https://img.shields.io/badge/CodeSandbox-%230077B5.svg?&style=flat-square&logo=codesandbox&logoColor=white&color=071A2C)][csb]
 [![Kaggle Profile](https://img.shields.io/badge/Kaggle-%230077B5.svg?&style=flat-square&logo=kaggle&logoColor=white&color=071A2C)][kgl]
