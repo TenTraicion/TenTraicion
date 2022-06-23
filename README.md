@@ -66,13 +66,13 @@ npx tentraicion
 <p align="center"><strong>Qoutes</strong></p>
 
 ```javascript
-        const quote = {
-            chris-pine: "Programming isn't about what you know; it's about what you can figure out."
-            dennis-ritchie: "The only way to learn a new programming language is by writing programs in it."
-            burt-rutan: "Testing leads to failure, and failure leads to understanding."
-            thomas-fuchs: "The best error message is the one that never shows up."
-            jason: "Don't write better error messages, write code that doesn't need them."
-        };
+const quote = {
+    chris-pine: "Programming isn't about what you know; it's about what you can figure out."
+    dennis-ritchie: "The only way to learn a new programming language is by writing programs in it."
+    burt-rutan: "Testing leads to failure, and failure leads to understanding."
+    thomas-fuchs: "The best error message is the one that never shows up."
+    jason: "Don't write better error messages, write code that doesn't need them."
+};
 ```
 
 <p align="center"><strong>Stats & Others</strong></p>
