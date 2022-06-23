@@ -38,6 +38,15 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 [![CodePen Profile](https://img.shields.io/badge/CodePen-%230077B5.svg?&style=flat-square&logo=codepen&logoColor=white&color=071A2C)][cp]
 [![Whats App](https://img.shields.io/badge/WhatsApp-%230077B5.svg?&style=flat-square&logo=whatsapp&logoColor=white&color=071A2C)][w]
 
+or,
+
+- Open your terminal
+- Run:
+
+```javascript
+npx tentraicion
+```
+
 ***Support Me***
 
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-yellow?style=social&logo=buymeacoffee)][bmc]
