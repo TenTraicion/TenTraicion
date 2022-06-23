@@ -1,5 +1,4 @@
 <h1 align="center">Ola 👋, It's TenTraicion</h1>
-<h2 align="center">A Programmer from Abyss</h2><hr>
 <p align="center">
     <a href="https://twitter.com/TenTraicion" style="text-decoration: none;">
         <img src="https://img.shields.io/twitter/follow/TenTraicion?logo=twitter&style=social&label=%20Followers" alt="Twitter Followers">
@@ -54,14 +53,16 @@
     <li>Open your Terminal</li>
     <li>Run:</li>
 </ul>
-<code>npx tentraicion</code>
+```
+npx tentraicion
+```
 <p align="center"><strong>Support Me</strong></p>
 <p align="center">
     <a href="https://www.buymeacoffee.com/tentraicion" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-yellow?style=social&logo=buymeacoffee" alt="Sponsor"></a>
     <a href="https://ko-fi.com/tentraicion" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-yellow?style=social&logo=kofi" alt="Sponsor"></a>
 </p>
 <p align="center"><strong>Qoutes</strong></p>
-<code>
+```javascript
         const quote = {
             chris-pine: "Programming isn't about what you know; it's about what you can figure out."
             dennis-ritchie: "The only way to learn a new programming language is by writing programs in it."
@@ -69,7 +70,7 @@
             thomas-fuchs: "The best error message is the one that never shows up."
             jason: "Don't write better error messages, write code that doesn't need them."
         };
-</code>
+```
 <p align="center"><strong>Stats & Others</strong></p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=tentraicion&no-frame=true&theme=nord&row=1" alt="Trophy"></p>
 <p align="center">
