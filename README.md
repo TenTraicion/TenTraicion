@@ -22,7 +22,9 @@
     <li> ⚡ Life Motto: <strong>Not Friends, Not Enemies, Just Strangers with Memories..!</strong></li>
     <li> 🤔 Fun Fact: <strong>"There are two ways to write error-free programs; only the third one works!"</strong></li>
 </ul>
-<p>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! I am a simple human being trying to lead a simple life. Nothing more and nothing less. I am a music lover and also love natural stormy weather. Think about having a sip of coffee in a rainy day sitting on a chair laying the legas on the grill of the balcony viwewing the sea beach in storm with the coldest music as your partner. I thrive for having these moments.</p>
+
+> I love connecting with different people so if you want to say hi, I'll be happy to meet you more! I am a simple human being trying to lead a simple life. Nothing more and nothing less. I am a music lover and also love natural stormy weather. Think about having a sip of coffee in a rainy day sitting on a chair laying the legas on the grill of the balcony viwewing the sea beach in storm with the coldest music as your partner. I thrive for having these moments.
+
 <p align="center"><strong>Wanna Listen to some music with me?</strong></p>
 <p align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=f0k6l3nba1l5g2bo3p30rkjgn&redirect=true" style="text-decoration: none;">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=f0k6l3nba1l5g2bo3p30rkjgn&cover_image=true&theme=default&bar_color_cover=false" alt="SpotifyPlayer">
