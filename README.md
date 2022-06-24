@@ -18,7 +18,7 @@
 <ul>
     <li> 🔭 I’m currently working on <a href="https://github.com/TenTraicion/hibi-ciento" style="text-decoration: none;">Hibi-Ciento</a></li>
     <li> 🌱 I’m currently learning <strong>Full-Stack Web Developement</strong></li>
-    <li> 🤝 I’m working with <a href="https://github.com/Solvinux" style="text-decoration: none;">Solvinux Solution Inc.</a> & <a href="https://github.com/Platinamo" style="text-decoration: none;">Platinamo</a></li>
+    <li> 🤝 I’m working with <a href="https://github.com/Solvinux" style="text-decoration: none;">Solvinux Solutions, Inc.</a> & <a href="https://github.com/Platinamo" style="text-decoration: none;">Platinamo</a></li>
     <li> ⚡ Life Motto: <strong>Not Friends, Not Enemies, Just Strangers with Memories..!</strong></li>
     <li> 🤔 Fun Fact: <strong>"There are two ways to write error-free programs; only the third one works!"</strong></li>
 </ul>
