@@ -49,6 +49,9 @@
     <a href="https://wa.me/message/25KLOLUBX7WQF" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/WhatsApp-%230077B5.svg?&style=flat-square&logo=whatsapp&logoColor=white&color=071A2C" alt="WhatsApp Profile">
     </a>
+    <a href="https://t.me/TenTraicion" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=flat-square&logo=telegram&logoColor=white&color=071A2C" alt="WhatsApp Profile">
+    </a>
 </p>
 <p align="center"><strong>Or,</strong></p>
 <ul>
