@@ -59,7 +59,7 @@
     <li>Run:</li>
 </ul>
 
-```javascript
+```bash
 npx tentraicion
 ```
 
