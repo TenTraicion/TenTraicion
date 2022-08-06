@@ -1724,7 +1724,7 @@ Kindly check</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="20.563333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="20.666666666666668 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1746,10 +1746,10 @@ Kindly check</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">1199</div>
+                                        <div class="value">1200</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 1199 times</div>
+                                <div class="text">Repositories have been deployed 1200 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1918,7 +1918,7 @@ Kindly check</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="148.94894894894895 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="149.1041041041041 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1941,12 +1941,12 @@ Kindly check</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 37.5k out of 331m repositories</span>
+                                    <span class="gh">ranked 37.4k out of 331m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">961</div>
+                                        <div class="value">962</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 961 stars</div>
+                                <div class="text">Maintaining a repository with 962 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2407,7 +2407,7 @@ Kindly check</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Aug 2022, 07:17:41 (timezone Asia/Dhaka) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 6 Aug 2022, 09:18:40 (timezone Asia/Dhaka) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
