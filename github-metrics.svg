@@ -1758,7 +1758,7 @@ Anastasiia's card</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="44.949999999999996 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="45.053333333333335 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1780,10 +1780,10 @@ Anastasiia's card</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">1435</div>
+                                        <div class="value">1436</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 1435 times</div>
+                                <div class="text">Repositories have been deployed 1436 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1952,7 +1952,7 @@ Anastasiia's card</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="152.51751751751752 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="152.67267267267266 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1975,12 +1975,12 @@ Anastasiia's card</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 36.8k out of 333m repositories</span>
+                                    <span class="gh">ranked 36.7k out of 333m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">984</div>
+                                        <div class="value">985</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 984 stars</div>
+                                <div class="text">Maintaining a repository with 985 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2479,7 +2479,7 @@ Anastasiia's card</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Aug 2022, 19:29:38 (timezone Asia/Dhaka) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 16 Aug 2022, 20:15:35 (timezone Asia/Dhaka) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
