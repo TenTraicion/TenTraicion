@@ -1745,7 +1745,7 @@ Making my new card, Thank you GitHub.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="70.47333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="70.57666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1767,10 +1767,10 @@ Making my new card, Thank you GitHub.</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">1682</div>
+                                        <div class="value">1683</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 1682 times</div>
+                                <div class="text">Repositories have been deployed 1683 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1939,7 +1939,7 @@ Making my new card, Thank you GitHub.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.27125 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.31 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1964,10 +1964,10 @@ Making my new card, Thank you GitHub.</div>
                                     maintainer
                                     <span class="gh">ranked 36.2k out of 336m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">1007</div>
+                                        <div class="value">1008</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 1007 stars</div>
+                                <div class="text">Maintaining a repository with 1008 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2466,7 +2466,7 @@ Making my new card, Thank you GitHub.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Aug 2022, 21:16:37 (timezone Asia/Dhaka) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 27 Aug 2022, 22:20:40 (timezone Asia/Dhaka) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
