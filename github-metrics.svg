@@ -1802,13 +1802,13 @@ Co-authored-by: David Leal &lt;halfpacho@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">hibi-ciento</span>
-                                <div class="bar" style="width: 79.10399999999998%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">99%</span>
+                                <div class="bar" style="width: 78.61599999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">98%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Contribute-To-This-Project</span>
-                                <div class="bar" style="width: 0.8960000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <span class="name">Soul</span>
+                                <div class="bar" style="width: 1.384%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
@@ -1817,27 +1817,27 @@ Co-authored-by: David Leal &lt;halfpacho@gmail.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 70.024%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">88%</span>
+                                <div class="bar" style="width: 69.52799999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">87%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">EJS</span>
-                                <div class="bar" style="width: 7.48%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.8960000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <div class="bar" style="width: 8.120000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 0.728%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.7919999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Git Config</span>
-                                <div class="bar" style="width: 0.5920000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.64%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">HTML</span>
+                                <div class="bar" style="width: 0.608%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -1863,7 +1863,7 @@ Co-authored-by: David Leal &lt;halfpacho@gmail.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="73.05666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="73.16 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1885,10 +1885,10 @@ Co-authored-by: David Leal &lt;halfpacho@gmail.com&gt;</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">1707</div>
+                                        <div class="value">1708</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 1707 times</div>
+                                <div class="text">Repositories have been deployed 1708 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2057,7 +2057,7 @@ Co-authored-by: David Leal &lt;halfpacho@gmail.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.34874999999999995 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.3875 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2082,10 +2082,10 @@ Co-authored-by: David Leal &lt;halfpacho@gmail.com&gt;</div>
                                     maintainer
                                     <span class="gh">ranked 36.1k out of 336m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">1009</div>
+                                        <div class="value">1010</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 1009 stars</div>
+                                <div class="text">Maintaining a repository with 1010 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2584,7 +2584,7 @@ Co-authored-by: David Leal &lt;halfpacho@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Aug 2022, 00:19:45 (timezone Asia/Dhaka) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 29 Aug 2022, 01:13:38 (timezone Asia/Dhaka) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
