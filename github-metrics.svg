@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            143 issue comments
+                            144 issue comments
                         </div>
                     </section>
                     <section>
@@ -1544,6 +1544,32 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#1594 Update index.html</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by MrChinmay03 in <span class="repo">Syknapse/Contribute-To-This-Project</span></div>
+                                    <div class="comment">
+                                        <i>
+                                            <i>@MrChinmay03, No. Your card has been merged successfully and added to the project perfectly. you can find your name card by clicking this link: https://syknapse.github.io/Contribute-To-This-Project/</i>
+                                            Thank Bhaiya can u please suggest or assign some issues so that I can get started with open source I have currently learned HTML,CSS,C++
+                                        </i>
+                                        you can search in GitHub with the keyword:
+                                        <code>good-first-issue</code>
+                                        and contribute there. There are lot of issues for beginners only!
+                                    </div>
+                                </div>
+                                <div class="timestamp">3 Sept 2022, 12:21:06</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#1593 2ndUpdate index.html</span>
                                     </div>
                                 </div>
@@ -1594,24 +1620,6 @@
                                     <div class="comment">@MrChinmay03 It will be fixed soon. let me know if there is any other changes you want in your card!</div>
                                 </div>
                                 <div class="timestamp">3 Sept 2022, 12:11:50</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1588 Made requested changes</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Imnaseli in <span class="repo">Syknapse/Contribute-To-This-Project</span></div>
-                                    <div class="comment">Hello @Imnaseli, your card has already added to the project via #1585. It can be found in this link!</div>
-                                </div>
-                                <div class="timestamp">3 Sept 2022, 12:09:26</div>
                             </section>
                         </div>
                     </section>
@@ -1738,7 +1746,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="86.90333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.00666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1760,10 +1768,10 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">1841</div>
+                                        <div class="value">1842</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 1841 times</div>
+                                <div class="text">Repositories have been deployed 1842 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1932,7 +1940,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.8524999999999999 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.89125 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1957,10 +1965,10 @@
                                     maintainer
                                     <span class="gh">ranked 35.8k out of 336m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">1022</div>
+                                        <div class="value">1023</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 1022 stars</div>
+                                <div class="text">Maintaining a repository with 1023 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2459,7 +2467,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Sept 2022, 12:19:52 (timezone Asia/Dhaka) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 3 Sept 2022, 13:15:09 (timezone Asia/Dhaka) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
