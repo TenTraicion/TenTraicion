@@ -1682,18 +1682,18 @@ Added Abhishek Kumar Card</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">hibi-ciento</span>
-                                <div class="bar" style="width: 72.824%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">91%</span>
+                                <div class="bar" style="width: 74.792%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">93%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Contribute-To-This-Project</span>
-                                <div class="bar" style="width: 4.328%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 4.4559999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Soul</span>
-                                <div class="bar" style="width: 2.848%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <span class="name">bot</span>
+                                <div class="bar" style="width: 0.7519999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
                             </div>
                         </div>
                     </section>
@@ -1702,26 +1702,26 @@ Added Abhishek Kumar Card</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 72.336%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">90%</span>
+                                <div class="bar" style="width: 73.256%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">92%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 5.904%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 4.792%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">EJS</span>
-                                <div class="bar" style="width: 1.672%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.7199999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.047999999999999994%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">JSON</span>
+                                <div class="bar" style="width: 0.184%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">JSON</span>
+                                <span class="name">CSS</span>
                                 <div class="bar" style="width: 0.047999999999999994%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
@@ -1748,7 +1748,7 @@ Added Abhishek Kumar Card</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="90.31333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="90.41666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1770,10 +1770,10 @@ Added Abhishek Kumar Card</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">1874</div>
+                                        <div class="value">1875</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 1874 times</div>
+                                <div class="text">Repositories have been deployed 1875 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2469,7 +2469,7 @@ Added Abhishek Kumar Card</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Sept 2022, 00:19:23 (timezone Asia/Dhaka) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 5 Sept 2022, 01:13:33 (timezone Asia/Dhaka) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
