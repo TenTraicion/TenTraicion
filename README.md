@@ -11,9 +11,9 @@
     </a>
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coder">
+    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coder"><img src="/devcard.svg" width="400" alt="DevCard">
 </p>
-<p align="center"><img src="/github-metrics.svg" alt="Metrics"><img src="/devcard.svg" width="400" alt="DevCard"></p>
+<p align="center"><img src="/github-metrics.svg" alt="Metrics"></p>
 <h2 align="center">Something about Me</h2>
 <ul>
     <li> 🔭 I’m currently working on <a href="https://github.com/TenTraicion/hibi-ciento" style="text-decoration: none;">Hibi-Ciento</a></li>
