@@ -14,6 +14,7 @@
     <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coder">
 </p>
 <p align="center"><img src="/github-metrics.svg" alt="Metrics"></p>
+<p align="center"><img src="/devcard.svg" alt="DevCard"></p>
 <h2 align="center">Something about Me</h2>
 <ul>
     <li> 🔭 I’m currently working on <a href="https://github.com/TenTraicion/hibi-ciento" style="text-decoration: none;">Hibi-Ciento</a></li>
