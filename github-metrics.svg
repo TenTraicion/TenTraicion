@@ -1735,7 +1735,7 @@ for any kind of query you can ask here or in our Discord Community: https://disc
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="177.42333333333335 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="177.52666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1757,10 +1757,10 @@ for any kind of query you can ask here or in our Discord Community: https://disc
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">2717</div>
+                                        <div class="value">2718</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 2717 times</div>
+                                <div class="text">Repositories have been deployed 2718 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1973,7 +1973,7 @@ for any kind of query you can ask here or in our Discord Community: https://disc
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.9675 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.00625 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1996,12 +1996,12 @@ for any kind of query you can ask here or in our Discord Community: https://disc
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 32.7k out of 349m repositories</span>
+                                    <span class="gh">ranked 32.6k out of 349m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">1154</div>
+                                        <div class="value">1155</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 1154 stars</div>
+                                <div class="text">Maintaining a repository with 1155 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2456,7 +2456,7 @@ for any kind of query you can ask here or in our Discord Community: https://disc
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Oct 2022, 21:22:46 (timezone Asia/Dhaka) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 14 Oct 2022, 22:28:57 (timezone Asia/Dhaka) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
