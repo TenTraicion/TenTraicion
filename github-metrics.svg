@@ -1627,7 +1627,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="487.01 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="487.1133333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1649,10 +1649,10 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">5713</div>
+                                        <div class="value">5714</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 5713 times</div>
+                                <div class="text">Repositories have been deployed 5714 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1865,7 +1865,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.76375 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.8025 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1890,10 +1890,10 @@
                                     maintainer
                                     <span class="gh">ranked 29k out of 378m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">1381</div>
+                                        <div class="value">1382</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 1381 stars</div>
+                                <div class="text">Maintaining a repository with 1382 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2179,7 +2179,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.42m out of 378m repositories</span>
+                                    <span class="gh">ranked 4.26m out of 378m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2312,7 +2312,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Feb 2023, 02:14:32 (timezone Asia/Dhaka) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 20 Feb 2023, 03:12:12 (timezone Asia/Dhaka) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
