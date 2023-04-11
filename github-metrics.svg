@@ -1772,7 +1772,7 @@ The branch will be merged with main and deleted after below task is completed.
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="611.4233333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="611.63 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1794,10 +1794,10 @@ The branch will be merged with main and deleted after below task is completed.
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">6917</div>
+                                        <div class="value">6919</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 6917 times</div>
+                                <div class="text">Repositories have been deployed 6919 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2363,7 +2363,7 @@ The branch will be merged with main and deleted after below task is completed.
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.66m out of 392m repositories</span>
+                                    <span class="gh">ranked 4.63m out of 392m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2496,7 +2496,7 @@ The branch will be merged with main and deleted after below task is completed.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Apr 2023, 07:03:11 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 11 Apr 2023, 08:28:46 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
