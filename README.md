@@ -11,7 +11,7 @@
     </a>
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coder"><img src="/devcard.svg" width="225" alt="DevCard">
+    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coder">
 </p>
 <p align="center"><img src="/github-metrics.svg" alt="Metrics"></p>
 <h2 align="center">Something about Me</h2>
