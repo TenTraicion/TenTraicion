@@ -1646,7 +1646,7 @@ kindly handle this isseus and PR related to swahili translation. Just ping me af
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1019.6933333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1019.7966666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1668,10 +1668,10 @@ kindly handle this isseus and PR related to swahili translation. Just ping me af
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">10868</div>
+                                        <div class="value">10869</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 10868 times</div>
+                                <div class="text">Repositories have been deployed 10869 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1907,7 +1907,7 @@ kindly handle this isseus and PR related to swahili translation. Just ping me af
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 23.4k out of 55.4m repositories</span>
+                                    <span class="gh">ranked 23.4k out of 55.2m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1856</div>
                                     </div>
@@ -2275,7 +2275,7 @@ kindly handle this isseus and PR related to swahili translation. Just ping me af
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.61m out of 55.4m repositories</span>
+                                    <span class="gh">ranked 4.31m out of 55.2m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2408,7 +2408,7 @@ kindly handle this isseus and PR related to swahili translation. Just ping me af
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Sept 2023, 15:11:13 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Sept 2023, 16:11:55 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
