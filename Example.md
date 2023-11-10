@@ -1,4 +1,4 @@
-# Ola 👋, It's TenTraicion
+# Hola 👋, It's TenTraicion
 
 ## A Programmer from Abyss
 
