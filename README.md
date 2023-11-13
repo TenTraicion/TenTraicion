@@ -1,4 +1,4 @@
-<h1 align="center">Ola 👋, It's TenTraicion</h1>
+<h1 align="center">Hola 👋, It's TenTraicion</h1>
 <p align="center">
     <a href="https://twitter.com/TenTraicion" style="text-decoration: none;">
         <img src="https://img.shields.io/twitter/follow/TenTraicion?logo=twitter&style=social&label=%20Followers" alt="Twitter Followers">
