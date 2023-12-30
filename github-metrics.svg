@@ -1682,7 +1682,7 @@ Welcome to Open Source Community. You can follow the Next Steps now. You are als
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1259.0133333333335 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1259.1166666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1704,10 +1704,10 @@ Welcome to Open Source Community. You can follow the Next Steps now. You are als
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">13184</div>
+                                        <div class="value">13185</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 13184 times</div>
+                                <div class="text">Repositories have been deployed 13185 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1823,7 +1823,7 @@ Welcome to Open Source Community. You can follow the Next Steps now. You are als
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 436k out of 127m users</span>
+                                    <span class="gh">ranked 409k out of 127m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">62</div>
                                     </div>
@@ -1899,7 +1899,7 @@ Welcome to Open Source Community. You can follow the Next Steps now. You are als
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 22.6k out of 56.3m repositories</span>
+                                    <span class="gh">ranked 22.6k out of 54.1m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1994</div>
                                     </div>
@@ -2311,7 +2311,7 @@ Welcome to Open Source Community. You can follow the Next Steps now. You are als
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.35m out of 56.3m repositories</span>
+                                    <span class="gh">ranked 3.37m out of 54.1m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
@@ -2444,7 +2444,7 @@ Welcome to Open Source Community. You can follow the Next Steps now. You are als
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Dec 2023, 14:15:15 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Dec 2023, 15:11:47 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
