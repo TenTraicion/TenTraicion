@@ -1741,7 +1741,7 @@ Welcome to the Open Source Community. You can follow the Next Steps now. You are
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1331.76 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1331.8633333333332 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1763,10 +1763,10 @@ Welcome to the Open Source Community. You can follow the Next Steps now. You are
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">13888</div>
+                                        <div class="value">13889</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 13888 times</div>
+                                <div class="text">Repositories have been deployed 13889 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1958,7 +1958,7 @@ Welcome to the Open Source Community. You can follow the Next Steps now. You are
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 22.5k out of 66m repositories</span>
+                                    <span class="gh">ranked 22.5k out of 76.8m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2022</div>
                                     </div>
@@ -2370,7 +2370,7 @@ Welcome to the Open Source Community. You can follow the Next Steps now. You are
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.42m out of 66m repositories</span>
+                                    <span class="gh">ranked 3.42m out of 76.8m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
@@ -2503,7 +2503,7 @@ Welcome to the Open Source Community. You can follow the Next Steps now. You are
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jan 2024, 12:16:21 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jan 2024, 13:12:11 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
